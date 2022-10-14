@@ -2,7 +2,6 @@
 #September 1, 2022
 #Homework 1
 
-
 #Adeel Arshid and Cassidy Drummond
 
 setwd
